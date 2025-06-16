@@ -4,19 +4,19 @@ This project showcases the application of core data analyst competencies using *
 
 ---
 
-## 💼 Project Objective
+## Project Objective
 
 To demonstrate practical data analytics capabilities in Excel, covering the full cycle of:
 
-- 🧹 **Data Preparation** – transforming and modeling raw data using Power Query  
-- 🔍 **Exploratory Data Analysis (EDA)** – identifying patterns and insights via Pivot Tables  
-- 📊 **Visual Storytelling** – presenting findings through meaningful and professional chart types
+- **Data Preparation** – transforming and modeling raw data using Power Query  
+- **Exploratory Data Analysis (EDA)** – identifying patterns and insights via Pivot Tables  
+- **Visual Storytelling** – presenting findings through meaningful and professional chart types
 
 This project simulates real-world business analysis tasks performed by a Data Analyst in a corporate setting.
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Power Query** – for data cleaning, transformation, and structuring  
 - **Pivot Tables** – for dynamic summarization and comparison of business metrics  
@@ -39,7 +39,7 @@ This project simulates real-world business analysis tasks performed by a Data An
 ### `AdventureWorks_Sales_Visualization1&2.xlsx`
 > This workbook contains two versions of sales-focused visual analysis. Each version includes multiple sheets covering key business areas such as product trends, regional performance, reseller insights, and sales team evaluation. All visualizations are built using Power Pivot and dynamic charts for flexible analysis.
 
-#### 📈 Visualizations Include:
+#### Visualizations Include:
 
 - Product Performance Analysis  
 - Reseller Insights & Cohort Analysis  
