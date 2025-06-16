@@ -31,7 +31,7 @@ This project simulates real-world business analysis tasks performed by a Data An
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 ### `AdventureWorks_PQ_Transformed.xlsx`
 > This file contains cleaned and transformed source data using Power Query. It serves as the foundation for all analysis and visualizations.
@@ -54,7 +54,7 @@ This project simulates real-world business analysis tasks performed by a Data An
 
 ---
 
-## 💡 Key Insights Delivered
+## Key Insights Delivered
 
 - Which product categories generate the most revenue  
 - Regional sales comparison and growth trends  
